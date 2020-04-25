@@ -1,4 +1,8 @@
 # LightUp Solver in TypeScript 😉😎
 
 
-![Alt text](sample.png?raw=true "Solver")
+![LightUp Solver](sample.png?raw=true "Solver")
+
+
+- sass styles/style.scss styles/style.css
+- tsc script.ts
