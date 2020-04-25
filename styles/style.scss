@@ -1,0 +1,17 @@
+@import "global";
+
+* {
+    font-family: $font;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+}
+
+.grid {
+    display: grid;
+    justify-items: center;
+    background-color: whitesmoke;
+}
